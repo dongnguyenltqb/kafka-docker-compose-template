@@ -1,0 +1,8 @@
+ kafka1_data         
+ kafka2_data
+ kafka3_data
+ zoo_data
+ zoo_log
+ .env
+ client-tunnel/*.pem
+
